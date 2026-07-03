@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>DevOps Demo</title>
+</head>
+
+<body>
+
+<h1>Welcome to DevOps</h1>
+
+<h2>Version 1.0</h2>
+
+<p>Hosted using Nginx</p>
+
+<p>Created by Chandrasekhar</p>
+
+</body>
+
+</html>
